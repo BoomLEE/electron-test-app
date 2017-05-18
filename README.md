@@ -6,6 +6,9 @@ Application for introduction series on integrating AngularJS with Electron. Intr
 
 
 $ git clone [- - ]
+
 $ cd electron-test-app
+
 $ npm install
+
 $ npm start
